@@ -1,6 +1,4 @@
 Android application:
   - SQLite Database of videogames
   - Insert, Update, Delete, and Listview
-![image](https://github.com/user-attachments/assets/37b9b0e2-50b8-4e9f-936f-661b3fb94df1)
-
-![image](https://github.com/user-attachments/assets/2105d6df-2a83-4ce3-95ec-d0ef394eadfe)
+![User Input](https://github.com/user-attachments/assets/53d0be2f-a395-41ef-af91-bdb1bed86af9) ![Game is Added](https://github.com/user-attachments/assets/ad63e87a-e556-45bd-a526-eeb83aceb679) ![View the Game](https://github.com/user-attachments/assets/f1a96f43-ed51-4177-8eec-3aecb4aabcee) ![Changing the item](https://github.com/user-attachments/assets/ec126ea6-9b0f-4ded-a185-c0e5bf08af9f) ![Displaying the new videogame in their list](https://github.com/user-attachments/assets/badc1e5e-d690-4102-a297-d3e954b4c9e9) ![entering id number](https://github.com/user-attachments/assets/8a9a80f2-e66c-4f1a-a09d-d902647a07f0) ![Screenshot_20240929_121402](https://github.com/user-attachments/assets/079fd977-fd8e-4185-963f-fc68ca271ac5)
