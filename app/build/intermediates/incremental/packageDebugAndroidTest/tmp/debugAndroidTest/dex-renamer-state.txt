@@ -1,0 +1,7 @@
+#Sun Nov 10 17:55:31 EST 2024
+base.0=F\:\\VideoGamesInventory\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=F\:\\VideoGamesInventory\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.videogames.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.videogames.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.videogames.app-debug-31:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.example.videogames.app-main-33:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.videogames.app-debug-31:/mipmap_ic_launcher.png.flat",
+        "source": "com.example.videogames.app-main-33:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.videogames.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.videogames.app-main-33:/layout/activity_main.xml"
+    }
+]
